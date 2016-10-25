@@ -68,6 +68,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\DeleteAllPrefs.cs" />
     <Compile Include="Assets\Scripts\MenuCat.cs" />
+    <Compile Include="Assets\Scripts\Move.cs" />
     <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\blink.cs" />
   </ItemGroup>
